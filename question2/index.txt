@@ -1,0 +1,6 @@
+2. You have tasked with designing a program to optimize the scheduling of classes required 
+specific requirement such as required facilities teacher availability and student 
+preferences your programshould generate on schedule that maximizes the efficient use of 
+facilities, minimize teaher work load and balance, student preferences across classes 
+consider constraints such as classroom availablity and tracks workload limits and avoiding
+ schedule conflicts
