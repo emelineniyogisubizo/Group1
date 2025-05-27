@@ -3,8 +3,8 @@ classes = [
     {"name": "English", "facility": "Classroom", "duration": 1, "students": ["Charlie", "Alice"]}
 ]
 teachers = [
-    {"name": "Mr. Kim", "available": [9, 10, 11], "max_hours": 2},
-    {"name": "Ms. Lee", "available": [10, 11, 12], "max_hours": 2}
+    {"name": "Mr. Abel", "available": [9, 10, 11], "max_hours": 2},
+    {"name": "Ms. Liya", "available": [10, 11, 12], "max_hours": 2}
 ]
 facilities = [
     {"name": "Lab", "available": [9, 10, 11]},
